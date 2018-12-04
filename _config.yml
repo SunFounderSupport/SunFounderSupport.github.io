@@ -1,11 +1,9 @@
- github: [metadata]
- encoding: UTF-8
- kramdown:
-   input: GFM
-   hard_wrap: false
- future: true
- jailed: false
- theme: jekyll-theme-primer
- gfm_quirks: paragraph_end
-
 theme: jekyll-theme-minimal
+title: SunFounder Support
+SEOTitle: SunFounder Support
+header-img: img/home-bg-hill.jpg
+email: service@sunfounder.com
+description: "support from sunfounder"
+keyword: "sunfounder"
+url: "https://SunFounderSupport.github.io"
+baseurl: ""
