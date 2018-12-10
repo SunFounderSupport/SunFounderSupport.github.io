@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: SunFounder Support
+title: Support
 logo: img/sunfounder-steam-education.png
+logo_url: "https://www.sunfoudner.com"
 show_download: true
 description: "support from sunfounder"
-url: "https://SunFounderSupport.github.io"
