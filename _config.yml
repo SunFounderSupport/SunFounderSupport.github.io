@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
 title: SunFounder Support
-SEOTitle: SunFounder Support
-header-img: img/sunfounder-steam-education.png
-email: service@sunfounder.com
+logo: img/sunfounder-steam-education.png
+show_download: true
 description: "support from sunfounder"
-keyword: "sunfounder"
 url: "https://SunFounderSupport.github.io"
-baseurl: ""
+baseurl: "qwe"
