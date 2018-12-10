@@ -1,3 +1,3 @@
 # PiCar-V
 [home](../../index.md)
-![img](img/)
+![img](../../img/raspoberrypi/picar-v/main_page.jpg)
