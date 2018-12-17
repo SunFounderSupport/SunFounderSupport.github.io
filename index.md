@@ -6,3 +6,4 @@
    - [PiCar-S](source/raspberrypi/picar-s.md)
  - Arduino
    - [DIY 4-DOF Robot Kit - Sloth](source/arduino/sloth.md)
+   - [小张驿站](source/arduino/sloth.md)
