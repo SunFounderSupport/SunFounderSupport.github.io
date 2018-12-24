@@ -24,3 +24,18 @@ You can re-download RasspberryPi OS to TF card.
 Add a few more software.
 
 <a href="../../img/raspoberrypi/raspad/Install the Raspberry Pi system.docx">Please refer to the documentation for specific operations.</a>
+
+## Bluetooth keyboard can't connect
+
+Steps to connect a Bluetooth keyboard:
+1. open the Bluetooth keyboard switch.
+
+2. Press "Fn" and "C". Blue light flashes.
+   
+3. Click on the Bluetooth icon of RasPad and select Add Device.
+   
+4. Wait a moment, click on “Bluetooth keyboard” to pair.
+   
+5. Input the matching password displayed by RasPad on the Bluetooth keyboard and press “Enter”.
+   
+6.  the connection is successful.
