@@ -18,7 +18,7 @@ Please re-burn Raspberry Pi OS to SD card.
 
 Raspberry Pi image file download address:  
 
-https://www.raspberrypi.org/downloads/raspbian/
+<a href="https://www.raspberrypi.org/downloads/raspbian/">https://www.raspberrypi.org/downloads/raspbian/</a>
 
 You can re-download RasspberryPi OS to TF card.
 Add a few more software.
@@ -47,7 +47,7 @@ Raspberry Pi 3 B+ needs to set "Country" to connect, please set "Country".
 ## Raspberry pie system
 
 Raspberry Pi image file download address:   
-https://www.raspberrypi.org/downloads/raspbian/
+<a href="https://www.raspberrypi.org/downloads/raspbian/">https://www.raspberrypi.org/downloads/raspbian/</a>
 
 You can re-download RasspberryPi OS to TF card.
 Add a few more software.
