@@ -39,3 +39,15 @@ Steps to connect a Bluetooth keyboard:
 5. Input the matching password displayed by RasPad on the Bluetooth keyboard and press “Enter”.
    
 6.  the connection is successful.
+
+## Wifi can't connect
+The Raspberry Pi comes with WiFi, so no WiFi adapter is required, and the “USB WiFi” in the kit is a USB microphone.
+Raspberry Pi 3 B+ needs to set "Country" to connect, please set "Country".
+
+## Raspberry pie system
+
+Raspberry Pi image file download address:   
+https://www.raspberrypi.org/downloads/raspbian/
+
+You can re-download RasspberryPi OS to TF card.
+Add a few more software.
