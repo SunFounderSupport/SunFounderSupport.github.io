@@ -44,10 +44,13 @@ Steps to connect a Bluetooth keyboard:
 The Raspberry Pi comes with WiFi, so no WiFi adapter is required, and the “USB WiFi” in the kit is a USB microphone.
 Raspberry Pi 3 B+ needs to set "Country" to connect, please set "Country".
 
-## Raspberry pie system
+## Raspad can be turned on but "no signal" appears
 
-Raspberry Pi image file download address:   
-<a href="https://www.raspberrypi.org/downloads/raspbian/">https://www.raspberrypi.org/downloads/raspbian/</a>
+lease confirm that the Raspberry Pi is properly installed on the raspad.
 
-You can re-download RasspberryPi OS to TF card.
-Add a few more software.
+The red light on the raspberry pie is always on, the green light is flashing, please check the hdmi line
+
+If the red light is not always on, please check the usb power cord.
+
+The green light flashes regularly or does not flash. Please reinstall the Raspberry Pi system.
+
