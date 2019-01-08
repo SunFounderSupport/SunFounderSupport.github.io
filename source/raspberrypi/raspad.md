@@ -54,3 +54,12 @@ If the red light is not always on, please check the usb power cord.
 
 The green light flashes regularly or does not flash. Please reinstall the Raspberry Pi system.
 
+## How to add a virtual keyboard
+Install a virtual keyboard :
+1. Please enter in the terminal of RasPad: sudo apt-get install matchbox-keyboard.
+   
+2. Choose Yes.
+   
+3. virtual keyboard installation is complete.
+
+4. Select Accessories from the main menu bar  —> Keyboard in the RasPad menu bar.
