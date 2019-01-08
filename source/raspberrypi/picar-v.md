@@ -1,12 +1,16 @@
 # PiCar-V
 ![img](../../img/raspoberrypi/picar-v/main_page.jpg)
 
-## The connection error is because the car and client do not have the correct      network connection, you can try the following:
+## The connection error is because the car and client do not have the correct network connection, you can try the following:
 
 1. Check if the server side on the Raspberry Pi is open correctly and there is no error message.
 2. Confirm that your client and Raspberry Pi are on the same network.
 
 the difference between Smart Video Car Kit V2.0 and Smart Video Car Kit for Raspberry Pi with Android App
+
+## Connection to pi connection via SSH failed
+
+Please create a new empty file called ssh in the /boot directory, delete the file suffix name, this file is used to enable raspberry Pi remote login
 
 ## The difference between a generation of video cars and a second generation video car
 
