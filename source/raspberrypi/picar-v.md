@@ -23,3 +23,14 @@ sensors and modules, if you don't mind the camera, or you don't need a power
 switch, and you would like to add more sensors on it, you should try V1.0. 
 PiCar-V also have a simple ball track example, maybe that will give you some 
 idea of making a vision project.
+
+
+## ImportError : No module named 'request'
+
+①cmd 
+
+②cd D:/Python
+
+③pip install requests 
+
+Wait for the system to load and install automatically
