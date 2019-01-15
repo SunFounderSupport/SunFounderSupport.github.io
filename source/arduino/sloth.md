@@ -24,4 +24,9 @@
 ## Unkonwn board is displayed when the program is downloaded
 
 1. It may be because the pl2303 driver is not installed
+
+## When the servo is calibrated, the servo rotates more than 180 degrees
+ Because the servo calibration can adjust the Angle is limited (40 degrees). When there is an exaggerated rotation during the servo calibration, it indicates that the servo test program was not run before assembly.
+
+Remove the abnormal steering gear and retest the servo. After the steering gear turns to 90 degrees, reinstall the servo.
    
