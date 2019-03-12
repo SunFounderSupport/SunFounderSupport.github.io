@@ -29,4 +29,7 @@
  Because the servo calibration can adjust the Angle is limited (40 degrees). When there is an exaggerated rotation during the servo calibration, it indicates that the servo test program was not run before assembly.
 
 Remove the abnormal steering gear and retest the servo. After the steering gear turns to 90 degrees, reinstall the servo.
-   
+
+## avrdude: stk500_recv(): programmer is not responding
+
+Select ATmega328P(Old Bootloader) in the processor
