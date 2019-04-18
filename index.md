@@ -8,3 +8,4 @@
    - [pismart](source/raspberrypi/pismart.md)
  - Arduino
    - [DIY 4-DOF Robot Kit - Sloth](source/arduino/sloth.md)
+   - [lizard](source/arduino/lizard.md)
