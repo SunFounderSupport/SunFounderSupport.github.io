@@ -31,5 +31,7 @@
 Remove the abnormal steering gear and retest the servo. After the steering gear turns to 90 degrees, reinstall the servo.
 
 ## avrdude: stk500_recv(): programmer is not responding
-
-Select ATmega328P(Old Bootloader) in the processor
+1. Is the serial port occupied?
+2. Usb serial communication is unstable
+3. Make sure the board and serial port are selected correctly
+4. Maybe your arduino ide version is too high,Select ATmega328P(Old Bootloader) in the processor
