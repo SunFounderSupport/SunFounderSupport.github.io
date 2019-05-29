@@ -1,6 +1,6 @@
 
 # FAQ
- - [EzBlock](source/ezblock/ezblock.md)
+ - [EzBlock](source/EzBlock/ezblock.md)
 
  - Raspberry Pi
    - [PiCar-V](source/raspberrypi/picar-v.md)
