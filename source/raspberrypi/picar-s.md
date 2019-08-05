@@ -16,3 +16,10 @@ Please create a new empty file called ssh in the /boot directory, delete the fil
 In line 29 of the line_follower.py file, modifying the value of this parameter can challenge the turning angle.
 ![img](../../img\raspoberrypi\picar-s\modifyTurningAngle.png)
 The turning angle is up to 45 degrees, otherwise the servo may be damaged.
+
+## Unable to use test 6 after installing dragit
+
+Dragit is self-starting after booting,If you want to use python, you need to manually close dragit
+```
+    sudo service dragit stop
+```

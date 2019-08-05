@@ -34,3 +34,10 @@ idea of making a vision project.
 ③pip install requests 
 
 Wait for the system to load and install automatically
+
+## Unable to use test 6 after installing dragit
+
+Dragit is self-starting after booting,If you want to use python, you need to manually close dragit
+```
+    sudo service dragit stop
+```
